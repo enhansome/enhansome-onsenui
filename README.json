@@ -87,7 +87,7 @@
             "last_commit": "2026-06-17T03:34:27Z",
             "owner": "OnsenUI",
             "repo": "OnsenUI",
-            "stars": 8861
+            "stars": 8860
           }
         },
         {
@@ -217,7 +217,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:20:12.509Z",
+    "last_updated": "2026-08-13T19:44:42.289Z",
     "original_repository": "OnsenUI/awesome-onsenui",
     "original_repository_sha": "3e49df1d34380d5247b091d0a5b5a6565b17b534",
     "enhanced_repository": "enhansome/enhansome-onsenui",
