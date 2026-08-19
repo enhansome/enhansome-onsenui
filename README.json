@@ -1,224 +1,222 @@
 {
   "items": [
     {
-      "description": "Are you planning to write an article, create a package, or even write the app using Onsen UI?\nIf you would like us to add your awesome Onsen UI content, open an issue ticket with a URL and short description of your content. Pull request are also welcome!",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "",
+      "description": "= for JavaScript and jQuery users = for AngularJS users = for Angular users = for React users = for Vue users",
       "items": [
         {
-          "node_type": "item",
-          "title": "angular2-onsenui-pokedex",
-          "description": "Example app using Pokédex API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2016-12-07T06:03:55Z",
-            "owner": "argelius",
-            "repo": "angular2-onsenui-pokedex",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ngx-onsenui-kitchensink",
-          "description": "Kitchensink example of by puku0x.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2018-06-24T05:40:10Z",
-            "owner": "puku0x",
-            "repo": "ngx-onsenui-kitchensink",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "Angular"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "react-onsenui-redux-weather",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "angular2-onsenui-pokedex",
+              "description": "Example app using Pokédex API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74725300,
+                "language": "JavaScript",
+                "last_commit": "2016-12-07T06:03:55Z",
+                "owner": "argelius",
+                "repo": "angular2-onsenui-pokedex",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ngx-onsenui-kitchensink",
+              "description": "Kitchensink example of by puku0x.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 107025568,
+                "language": "TypeScript",
+                "last_commit": "2018-06-24T05:40:10Z",
+                "owner": "puku0x",
+                "repo": "ngx-onsenui-kitchensink",
+                "stars": 4
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-24T17:28:09Z",
-            "owner": "argelius",
-            "repo": "react-onsenui-redux-weather",
-            "stars": 120
-          }
+          "node_type": "group",
+          "title": "Angular"
         },
         {
-          "node_type": "item",
-          "title": "react-onsenui-kitchensink",
-          "description": "Official kitchensink example of .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-07-13T03:47:51Z",
-            "owner": "OnsenUI",
-            "repo": "react-onsenui-kitchensink",
-            "stars": 51
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "react-onsenui-redux-weather",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 59641178,
+                "language": "JavaScript",
+                "last_commit": "2023-01-24T17:28:09Z",
+                "owner": "argelius",
+                "repo": "react-onsenui-redux-weather",
+                "stars": 120
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-onsenui-kitchensink",
+              "description": "Official kitchensink example of .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 53569080,
+                "language": "JavaScript",
+                "last_commit": "2018-07-13T03:47:51Z",
+                "owner": "OnsenUI",
+                "repo": "react-onsenui-kitchensink",
+                "stars": 51
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Material select dialog with",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12755139,
+                "language": "JavaScript",
+                "last_commit": "2026-06-17T03:34:27Z",
+                "owner": "OnsenUI",
+                "repo": "OnsenUI",
+                "stars": 8860
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-onsenui-kitchensink",
+              "description": "Official kitchensink example of .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 96285724,
+                "language": "Vue",
+                "last_commit": "2018-07-05T04:09:07Z",
+                "owner": "OnsenUI",
+                "repo": "vue-onsenui-kitchensink",
+                "stars": 165
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Vue"
         }
       ],
-      "title": "React"
+      "title": "Examples"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Material select dialog with",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ngx-onsenui-phonegap-starter",
+              "description": "Onsen UI + Angular + PhoneGap. [Japanese]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84621776,
+                "language": "TypeScript",
+                "last_commit": "2017-10-29T10:38:32Z",
+                "owner": "puku0x",
+                "repo": "ngx-onsenui-phonegap-starter",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ngx-onsenui-pwa",
+              "description": "PWA with ngx-onsenui.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 101817403,
+                "language": "TypeScript",
+                "last_commit": "2017-12-19T09:50:51Z",
+                "owner": "puku0x",
+                "repo": "ngx-onsenui-pwa",
+                "stars": 0
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-06-17T03:34:27Z",
-            "owner": "OnsenUI",
-            "repo": "OnsenUI",
-            "stars": 8860
-          }
+          "node_type": "group",
+          "title": "Angular"
         },
         {
-          "node_type": "item",
-          "title": "vue-onsenui-kitchensink",
-          "description": "Official kitchensink example of .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2018-07-05T04:09:07Z",
-            "owner": "OnsenUI",
-            "repo": "vue-onsenui-kitchensink",
-            "stars": 165
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "aurelia-onsenui",
+              "description": "Aurelia integration of Onsen UI.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86166998,
+                "language": "JavaScript",
+                "last_commit": "2018-10-26T06:18:35Z",
+                "owner": "sidloki",
+                "repo": "aurelia-onsenui",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ember-onsenui",
+              "description": "Ember.js integration of Onsen UI.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 77193111,
+                "language": "JavaScript",
+                "last_commit": "2017-11-11T17:02:45Z",
+                "owner": "sukima",
+                "repo": "ember-onsenui",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aurelia-onsenui-kitchensink",
+              "description": "Kichensink example of .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 87180165,
+                "language": "JavaScript",
+                "last_commit": "2017-12-29T11:26:05Z",
+                "owner": "sidloki",
+                "repo": "aurelia-onsenui-kitchensink",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other Frameworks"
         }
       ],
-      "title": "Vue"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Community Packages"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ngx-onsenui-phonegap-starter",
-          "description": "Onsen UI + Angular + PhoneGap. [Japanese]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2017-10-29T10:38:32Z",
-            "owner": "puku0x",
-            "repo": "ngx-onsenui-phonegap-starter",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ngx-onsenui-pwa",
-          "description": "PWA with ngx-onsenui.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2017-12-19T09:50:51Z",
-            "owner": "puku0x",
-            "repo": "ngx-onsenui-pwa",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Angular"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "aurelia-onsenui",
-          "description": "Aurelia integration of Onsen UI.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-10-26T06:18:35Z",
-            "owner": "sidloki",
-            "repo": "aurelia-onsenui",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ember-onsenui",
-          "description": "Ember.js integration of Onsen UI.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2017-11-11T17:02:45Z",
-            "owner": "sukima",
-            "repo": "ember-onsenui",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aurelia-onsenui-kitchensink",
-          "description": "Kichensink example of .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2017-12-29T11:26:05Z",
-            "owner": "sidloki",
-            "repo": "aurelia-onsenui-kitchensink",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "scala-js-onsenui",
-          "description": "Scala.js facades for Onsen UI.",
-          "children": []
-        }
-      ],
-      "title": "Other Frameworks"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Articles"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Resources"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:16:18.221Z",
+    "last_updated": "2026-08-19T12:43:52.692Z",
     "original_repository": "OnsenUI/awesome-onsenui",
+    "original_repository_id": 97218015,
     "original_repository_sha": "3e49df1d34380d5247b091d0a5b5a6565b17b534",
     "enhanced_repository": "enhansome/enhansome-onsenui",
     "enhanced_repository_description": null,
