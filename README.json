@@ -7,6 +7,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "OnsenUI-YouTube",
+              "description": "Example app using YouTube API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39051428,
+                "language": "JavaScript",
+                "last_commit": "2018-10-20T17:17:24Z",
+                "owner": "frandiox",
+                "repo": "OnsenUI-YouTube",
+                "stars": 36
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "AngularJS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "angular2-onsenui-pokedex",
               "description": "Example app using Pokédex API.",
               "children": [],
@@ -33,6 +55,21 @@
                 "owner": "puku0x",
                 "repo": "ngx-onsenui-kitchensink",
                 "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ngx-onsenui-ngrx-todo",
+              "description": "Onsen UI + Angular + ngrx + PhoneGap.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 99945449,
+                "language": "TypeScript",
+                "last_commit": "2018-06-12T07:00:44Z",
+                "owner": "puku0x",
+                "repo": "ngx-onsenui-ngrx-todo",
+                "stars": 8
               }
             }
           ],
@@ -108,6 +145,21 @@
                 "repo": "vue-onsenui-kitchensink",
                 "stars": 165
               }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-onsenui-cordova-iphonex",
+              "description": "An example Cordova project supporting iPhone X using Onsen UI",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 109244589,
+                "language": "JavaScript",
+                "last_commit": "2017-11-02T09:35:55Z",
+                "owner": "asial-matagawa",
+                "repo": "vue-onsenui-cordova-iphonex",
+                "stars": 6
+              }
             }
           ],
           "description": null,
@@ -120,6 +172,28 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "angularjs-onsenui2-webpack2",
+              "description": "Onsen UI + AngularJS + webpack 2 + PhoneGap + ES2017 + SCSS/cssnext. [Japanese]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 79826695,
+                "language": "JavaScript",
+                "last_commit": "2017-03-08T03:59:08Z",
+                "owner": "puku0x",
+                "repo": "angularjs-onsenui2-webpack2",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "AngularJS"
+        },
         {
           "children": [
             {
@@ -156,6 +230,50 @@
           "description": null,
           "node_type": "group",
           "title": "Angular"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "react-redux-onsenui-webpack-boilerplate",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61429278,
+                "language": "CSS",
+                "last_commit": "2016-07-07T13:58:10Z",
+                "owner": "shprink",
+                "repo": "react-redux-onsenui-webpack-boilerplate",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "onsenui-vue-router-pwa",
+              "description": "Onsen UI + Vue + Vue Router + Axios.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95628059,
+                "language": "JavaScript",
+                "last_commit": "2017-07-13T00:49:58Z",
+                "owner": "superpikar",
+                "repo": "onsenui-vue-router-pwa",
+                "stars": 36
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Vue"
         },
         {
           "children": [
@@ -214,7 +332,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:04:04.706Z",
+    "last_updated": "2026-08-24T14:35:08.411Z",
     "original_repository": "OnsenUI/awesome-onsenui",
     "original_repository_id": 97218015,
     "original_repository_sha": "3e49df1d34380d5247b091d0a5b5a6565b17b534",
