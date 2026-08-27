@@ -332,9 +332,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T21:14:42.645Z",
-    "original_repository": "OnsenUI/awesome-onsenui",
-    "original_repository_id": 97218015,
+    "last_updated": "2026-08-27T11:54:23.238Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 97218015,
+      "language": null,
+      "last_commit": "2019-01-22T15:31:27Z",
+      "owner": "OnsenUI",
+      "repo": "awesome-onsenui",
+      "stars": 197
+    },
     "original_repository_sha": "3e49df1d34380d5247b091d0a5b5a6565b17b534",
     "enhanced_repository": "enhansome/enhansome-onsenui",
     "enhanced_repository_description": null,
