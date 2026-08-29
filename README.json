@@ -18,7 +18,8 @@
                 "owner": "frandiox",
                 "repo": "OnsenUI-YouTube",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-29T01:54:59.181Z"
             }
           ],
           "description": null,
@@ -40,7 +41,8 @@
                 "owner": "argelius",
                 "repo": "angular2-onsenui-pokedex",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T01:54:59.181Z"
             },
             {
               "node_type": "item",
@@ -55,7 +57,8 @@
                 "owner": "puku0x",
                 "repo": "ngx-onsenui-kitchensink",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T01:54:59.181Z"
             },
             {
               "node_type": "item",
@@ -70,7 +73,8 @@
                 "owner": "puku0x",
                 "repo": "ngx-onsenui-ngrx-todo",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T01:54:59.181Z"
             }
           ],
           "description": null,
@@ -92,7 +96,8 @@
                 "owner": "argelius",
                 "repo": "react-onsenui-redux-weather",
                 "stars": 120
-              }
+              },
+              "first_seen": "2026-08-29T01:54:59.181Z"
             },
             {
               "node_type": "item",
@@ -107,7 +112,8 @@
                 "owner": "OnsenUI",
                 "repo": "react-onsenui-kitchensink",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-29T01:54:59.181Z"
             }
           ],
           "description": null,
@@ -129,7 +135,8 @@
                 "owner": "OnsenUI",
                 "repo": "OnsenUI",
                 "stars": 8857
-              }
+              },
+              "first_seen": "2026-08-29T01:54:59.181Z"
             },
             {
               "node_type": "item",
@@ -144,7 +151,8 @@
                 "owner": "OnsenUI",
                 "repo": "vue-onsenui-kitchensink",
                 "stars": 165
-              }
+              },
+              "first_seen": "2026-08-29T01:54:59.181Z"
             },
             {
               "node_type": "item",
@@ -159,7 +167,8 @@
                 "owner": "asial-matagawa",
                 "repo": "vue-onsenui-cordova-iphonex",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T01:54:59.181Z"
             }
           ],
           "description": null,
@@ -187,7 +196,8 @@
                 "owner": "puku0x",
                 "repo": "angularjs-onsenui2-webpack2",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T01:54:59.181Z"
             }
           ],
           "description": null,
@@ -209,7 +219,8 @@
                 "owner": "puku0x",
                 "repo": "ngx-onsenui-phonegap-starter",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T01:54:59.181Z"
             },
             {
               "node_type": "item",
@@ -224,7 +235,8 @@
                 "owner": "puku0x",
                 "repo": "ngx-onsenui-pwa",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T01:54:59.181Z"
             }
           ],
           "description": null,
@@ -246,7 +258,8 @@
                 "owner": "shprink",
                 "repo": "react-redux-onsenui-webpack-boilerplate",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T01:54:59.181Z"
             }
           ],
           "description": null,
@@ -268,7 +281,8 @@
                 "owner": "superpikar",
                 "repo": "onsenui-vue-router-pwa",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-29T01:54:59.181Z"
             }
           ],
           "description": null,
@@ -290,7 +304,8 @@
                 "owner": "sidloki",
                 "repo": "aurelia-onsenui",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T01:54:59.181Z"
             },
             {
               "node_type": "item",
@@ -305,7 +320,8 @@
                 "owner": "sukima",
                 "repo": "ember-onsenui",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T01:54:59.181Z"
             },
             {
               "node_type": "item",
@@ -320,7 +336,8 @@
                 "owner": "sidloki",
                 "repo": "aurelia-onsenui-kitchensink",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:54:59.181Z"
             }
           ],
           "description": null,
@@ -332,7 +349,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T02:20:42.877Z",
+    "last_updated": "2026-08-29T01:54:59.181Z",
     "original_repository_info": {
       "archived": false,
       "id": 97218015,
