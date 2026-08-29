@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Example jukebox app made with Onsen UI, AngularJS and Youtube API",
+                "homepage": null,
                 "id": 39051428,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-10-20T17:17:24Z",
+                "open_issues": 2,
                 "owner": "frandiox",
                 "repo": "OnsenUI-YouTube",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:59.181Z"
             }
@@ -35,12 +40,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pokedex app using Angular 2 and Onsen UI",
+                "homepage": null,
                 "id": 74725300,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-12-07T06:03:55Z",
+                "open_issues": 0,
                 "owner": "argelius",
                 "repo": "angular2-onsenui-pokedex",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:59.181Z"
             },
@@ -51,12 +61,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Angular Onsen UI Kitchen Sink",
+                "homepage": "https://puku0x.github.io/ngx-onsenui-kitchensink/",
                 "id": 107025568,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2018-06-24T05:40:10Z",
+                "open_issues": 1,
                 "owner": "puku0x",
                 "repo": "ngx-onsenui-kitchensink",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:59.181Z"
             },
@@ -67,12 +82,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Angular + Onsen UI 2 + NgRx + PhoneGap",
+                "homepage": "https://puku0x.github.io/ngx-onsenui-ngrx-todo/",
                 "id": 99945449,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2018-06-12T07:00:44Z",
+                "open_issues": 0,
                 "owner": "puku0x",
                 "repo": "ngx-onsenui-ngrx-todo",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "angular",
+                  "ngrx",
+                  "onsenui",
+                  "phonegap"
+                ]
               },
               "first_seen": "2026-08-29T01:54:59.181Z"
             }
@@ -90,12 +115,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Onsen UI sample app using Redux and React",
+                "homepage": "https://onsen.io/",
                 "id": 59641178,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-24T17:28:09Z",
+                "open_issues": 17,
                 "owner": "argelius",
                 "repo": "react-onsenui-redux-weather",
-                "stars": 120
+                "stars": 120,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:59.181Z"
             },
@@ -106,12 +136,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kitchen Sink Example for Onsen UI React binding",
+                "homepage": null,
                 "id": 53569080,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-07-13T03:47:51Z",
+                "open_issues": 3,
                 "owner": "OnsenUI",
                 "repo": "react-onsenui-kitchensink",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:59.181Z"
             }
@@ -129,12 +164,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js.",
+                "homepage": "https://onsen.io/",
                 "id": 12755139,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-06-17T03:34:27Z",
+                "open_issues": 14,
                 "owner": "OnsenUI",
                 "repo": "OnsenUI",
-                "stars": 8857
+                "stars": 8857,
+                "topics": [
+                  "android",
+                  "angular",
+                  "cordova",
+                  "customelements",
+                  "html",
+                  "hybrid-apps",
+                  "ios",
+                  "javascript",
+                  "material",
+                  "monaca",
+                  "onsen-ui",
+                  "pwa",
+                  "react",
+                  "vue",
+                  "webcomponents"
+                ]
               },
               "first_seen": "2026-08-29T01:54:59.181Z"
             },
@@ -145,12 +201,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Onsen UI for Vue Kitchensink app.",
+                "homepage": "https://onsenui.github.io/vue-onsenui-kitchensink/",
                 "id": 96285724,
                 "language": "Vue",
+                "license": "MIT",
                 "last_commit": "2018-07-05T04:09:07Z",
+                "open_issues": 6,
                 "owner": "OnsenUI",
                 "repo": "vue-onsenui-kitchensink",
-                "stars": 165
+                "stars": 165,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:59.181Z"
             },
@@ -161,12 +222,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An example Cordova project supporting iPhone X using Onsen UI.",
+                "homepage": null,
                 "id": 109244589,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-11-02T09:35:55Z",
+                "open_issues": 0,
                 "owner": "asial-matagawa",
                 "repo": "vue-onsenui-cordova-iphonex",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:59.181Z"
             }
@@ -190,12 +256,29 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": " AngularJS + Onsen UI 2 + Webpack2  + PhoneGap + ES2017 + SCSS/cssnext のサンプル",
+                "homepage": null,
                 "id": 79826695,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-03-08T03:59:08Z",
+                "open_issues": 0,
                 "owner": "puku0x",
                 "repo": "angularjs-onsenui2-webpack2",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "angular",
+                  "angularjs",
+                  "cssnext",
+                  "es2017",
+                  "hybrid-apps",
+                  "onsen-ui",
+                  "phonegap",
+                  "postcss",
+                  "scss",
+                  "webpack2",
+                  "yarn"
+                ]
               },
               "first_seen": "2026-08-29T01:54:59.181Z"
             }
@@ -213,12 +296,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Angular + Onsen UI 2 + PhoneGap のサンプル",
+                "homepage": "https://puku0x.github.io/ngx-onsenui-phonegap-starter/",
                 "id": 84621776,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2017-10-29T10:38:32Z",
+                "open_issues": 0,
                 "owner": "puku0x",
                 "repo": "ngx-onsenui-phonegap-starter",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "angler",
+                  "aot",
+                  "onsenui",
+                  "phonegap",
+                  "scss",
+                  "typescript",
+                  "webpack"
+                ]
               },
               "first_seen": "2026-08-29T01:54:59.181Z"
             },
@@ -229,12 +325,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PWA with ngx-onsenui",
+                "homepage": "https://puku0x.github.io/ngx-onsenui-pwa/",
                 "id": 101817403,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2017-12-19T09:50:51Z",
+                "open_issues": 0,
                 "owner": "puku0x",
                 "repo": "ngx-onsenui-pwa",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:59.181Z"
             }
@@ -252,12 +353,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 61429278,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2016-07-07T13:58:10Z",
+                "open_issues": 0,
                 "owner": "shprink",
                 "repo": "react-redux-onsenui-webpack-boilerplate",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:59.181Z"
             }
@@ -275,12 +381,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Onsen UI + Vue + Vue Router + Axios PWA Starter Project",
+                "homepage": null,
                 "id": 95628059,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-07-13T00:49:58Z",
+                "open_issues": 0,
                 "owner": "superpikar",
                 "repo": "onsenui-vue-router-pwa",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "axios",
+                  "onsenui",
+                  "pwa",
+                  "vue",
+                  "vue-onsenui",
+                  "vue-router",
+                  "vuex"
+                ]
               },
               "first_seen": "2026-08-29T01:54:59.181Z"
             }
@@ -298,12 +417,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Aurelia bindings for Onsen UI",
+                "homepage": null,
                 "id": 86166998,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-10-26T06:18:35Z",
+                "open_issues": 3,
                 "owner": "sidloki",
                 "repo": "aurelia-onsenui",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:59.181Z"
             },
@@ -314,12 +438,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ember addon for Onsen UI component library",
+                "homepage": null,
                 "id": 77193111,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-11-11T17:02:45Z",
+                "open_issues": 1,
                 "owner": "sukima",
                 "repo": "ember-onsenui",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:59.181Z"
             },
@@ -330,12 +459,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Aurelia Onsen UI Kitchen Sink Example",
+                "homepage": null,
                 "id": 87180165,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-12-29T11:26:05Z",
+                "open_issues": 1,
                 "owner": "sidloki",
                 "repo": "aurelia-onsenui-kitchensink",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:59.181Z"
             }
@@ -349,15 +483,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:54:59.181Z",
+    "last_updated": "2026-08-29T04:52:38.442Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Onsen UI resources.",
+      "homepage": null,
       "id": 97218015,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2019-01-22T15:31:27Z",
+      "open_issues": 0,
       "owner": "OnsenUI",
       "repo": "awesome-onsenui",
-      "stars": 197
+      "stars": 197,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "onsen-ui"
+      ]
     },
     "original_repository_sha": "3e49df1d34380d5247b091d0a5b5a6565b17b534",
     "enhanced_repository": "enhansome/enhansome-onsenui",
