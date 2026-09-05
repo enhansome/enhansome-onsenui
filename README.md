@@ -1,6 +1,6 @@
 # Awesome Onsen UI with stars
 
-A curated list of awesome [Onsen UI](https://github.com/OnsenUI/OnsenUI) ⭐ 8,857 | 🐛 14 | 🌐 JavaScript | 📅 2026-06-17 resources. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,001 | 🐛 106 | 📅 2026-09-02 list things.
+A curated list of awesome [Onsen UI](https://github.com/OnsenUI/OnsenUI) ⭐ 8,856 | 🐛 14 | 🌐 JavaScript | 📅 2026-06-17 resources. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,292 | 🐛 106 | 📅 2026-09-02 list things.
 
 ## Contributing
 
@@ -116,7 +116,7 @@ Excluded (Reason: The example is no longer working)
 
 ### Vue
 
-* [Material select dialog with `v-ons-alert-dialog`](https://github.com/OnsenUI/OnsenUI/issues/2137) ⭐ 8,857 | 🐛 14 | 🌐 JavaScript | 📅 2026-06-17 <img src="https://onsenui.github.io/art/icons/vue.svg" width="20" />
+* [Material select dialog with `v-ons-alert-dialog`](https://github.com/OnsenUI/OnsenUI/issues/2137) ⭐ 8,856 | 🐛 14 | 🌐 JavaScript | 📅 2026-06-17 <img src="https://onsenui.github.io/art/icons/vue.svg" width="20" />
 
 * [vue-onsenui-kitchensink](https://github.com/OnsenUI/vue-onsenui-kitchensink) ⭐ 165 | 🐛 6 | 🌐 Vue | 📅 2018-07-05 <img src="https://onsenui.github.io/art/icons/vue.svg" width="20" /> - Official kitchensink example of `vue-onsenui`.
 
@@ -361,4 +361,4 @@ Not Ready
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
