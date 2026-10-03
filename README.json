@@ -111,7 +111,7 @@
             {
               "node_type": "item",
               "title": "react-onsenui-redux-weather",
-              "description": null,
+              "description": "argelius/react-onsenui-redux-weather",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -160,7 +160,7 @@
             {
               "node_type": "item",
               "title": "Material select dialog with",
-              "description": null,
+              "description": "OnsenUI/OnsenUI",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -349,7 +349,7 @@
             {
               "node_type": "item",
               "title": "react-redux-onsenui-webpack-boilerplate",
-              "description": null,
+              "description": "shprink/react-redux-onsenui-webpack-boilerplate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:34:20.556Z",
+    "last_updated": "2026-10-03T04:59:45.789Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Onsen UI resources.",
