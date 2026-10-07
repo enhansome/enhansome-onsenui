@@ -173,7 +173,7 @@
                 "open_issues": 14,
                 "owner": "OnsenUI",
                 "repo": "OnsenUI",
-                "stars": 8854,
+                "stars": 8853,
                 "topics": [
                   "android",
                   "angular",
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T22:48:19.301Z",
+    "last_updated": "2026-10-07T23:19:23.727Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Onsen UI resources.",
