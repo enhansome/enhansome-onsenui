@@ -170,7 +170,7 @@
                 "language": "JavaScript",
                 "license": null,
                 "last_commit": "2026-06-17T03:34:27Z",
-                "open_issues": 14,
+                "open_issues": 15,
                 "owner": "OnsenUI",
                 "repo": "OnsenUI",
                 "stars": 8852,
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T21:14:55.188Z",
+    "last_updated": "2026-10-26T22:53:18.470Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Onsen UI resources.",
