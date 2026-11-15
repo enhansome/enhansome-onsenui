@@ -1,6 +1,6 @@
 # Awesome Onsen UI with stars
 
-A curated list of awesome [Onsen UI](https://github.com/OnsenUI/OnsenUI) ⭐ 8,853 | 🐛 15 | 🌐 JavaScript | 📅 2026-06-17 resources. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 536,923 | 🐛 104 | 📅 2026-09-02 list things.
+A curated list of awesome [Onsen UI](https://github.com/OnsenUI/OnsenUI) ⭐ 8,853 | 🐛 15 | 🌐 JavaScript | 📅 2026-06-17 resources. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 537,481 | 🐛 104 | 📅 2026-09-02 list things.
 
 ## Contributing
 
@@ -361,4 +361,4 @@ Not Ready
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
