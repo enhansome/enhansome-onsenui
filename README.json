@@ -124,7 +124,7 @@
                 "open_issues": 17,
                 "owner": "argelius",
                 "repo": "react-onsenui-redux-weather",
-                "stars": 119,
+                "stars": 120,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:59.181Z"
@@ -483,7 +483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T00:55:28.894Z",
+    "last_updated": "2026-11-21T00:17:01.093Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Onsen UI resources.",

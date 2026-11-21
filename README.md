@@ -1,6 +1,6 @@
 # Awesome Onsen UI with stars
 
-A curated list of awesome [Onsen UI](https://github.com/OnsenUI/OnsenUI) ⭐ 8,851 | 🐛 15 | 🌐 JavaScript | 📅 2026-06-17 resources. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 539,554 | 🐛 103 | 📅 2026-09-02 list things.
+A curated list of awesome [Onsen UI](https://github.com/OnsenUI/OnsenUI) ⭐ 8,851 | 🐛 15 | 🌐 JavaScript | 📅 2026-06-17 resources. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 540,026 | 🐛 103 | 📅 2026-09-02 list things.
 
 ## Contributing
 
@@ -100,7 +100,7 @@ If you would like us to add your awesome Onsen UI content, [open an issue ticket
 
 ### React
 
-* [react-onsenui-redux-weather](https://github.com/argelius/react-onsenui-redux-weather) ⭐ 119 | 🐛 17 | 🌐 JavaScript | 📅 2023-01-24 <img src="https://onsenui.github.io/art/icons/react.svg" width="20" />
+* [react-onsenui-redux-weather](https://github.com/argelius/react-onsenui-redux-weather) ⭐ 120 | 🐛 17 | 🌐 JavaScript | 📅 2023-01-24 <img src="https://onsenui.github.io/art/icons/react.svg" width="20" />
 
 * [react-onsenui-kitchensink](https://github.com/OnsenUI/react-onsenui-kitchensink) ⭐ 51 | 🐛 3 | 🌐 JavaScript | 📅 2018-07-13 <img src="https://onsenui.github.io/art/icons/react.svg" width="20" /> - Official kitchensink example of `react-onsenui`.
 
@@ -361,4 +361,4 @@ Not Ready
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
